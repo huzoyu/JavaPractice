@@ -1,7 +1,8 @@
 package com.zhongyu.thinkinginjava.chapter3;
 
 /**
- * 演示Java的方法别名机制
+ * 
+ * 婕旂ずJava鍒悕鏈哄埗
  * @author ZYHU
  *
  */
